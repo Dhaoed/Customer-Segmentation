@@ -1,0 +1,10 @@
+uvicorn
+sqlmodel
+bcrypt
+python-jose
+python-dotenv
+scikit-learn
+numpy
+pandas
+hpelm
+sqlalchemy
